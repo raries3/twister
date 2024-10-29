@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+p {
+  font-size: 150px;
+}
+
+button {
+  font-size: 100px;
+  width: 30%;
+}
+
+.red {
+  background-color: #FA8072;
+}
+
+.blue {
+  background-color: #ADD8E6;
+}
+
+.green {
+  background-color: #AEF6C3;
+}
+
+.yellow {
+  background-color: #FFFFE0;
+}
